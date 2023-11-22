@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Coca-cola",
+    "restaurant_id": 1,
+    "unit_price": 5.9
+  },
+  {
+    "id": 2,
+    "name": "Agua",
+    "restaurant_id": 1,
+    "unit_price": 3.9
+  },
+  {
+    "id": 3,
+    "name": "Combo Espeto, Mandico e Vinagrete",
+    "restaurant_id": 1,
+    "unit_price": 24.9
+  },
+  {
+    "id": 4,
+    "name": "Coca-cola",
+    "restaurant_id": 2,
+    "unit_price": 5.9
+  },
+  {
+    "id": 5,
+    "name": "Agua",
+    "restaurant_id": 2,
+    "unit_price": 3.9
+  },
+  {
+    "id": 6,
+    "name": "Escondidinho carne seca",
+    "restaurant_id": 2,
+    "unit_price": 30.9
+  },
+  {
+    "id": 7,
+    "name": "Coca-cola",
+    "restaurant_id": 3,
+    "unit_price": 5.9
+  },
+  {
+    "id": 8,
+    "name": "Agua",
+    "restaurant_id": 3,
+    "unit_price": 3.9
+  },
+  {
+    "id": 9,
+    "name": "Picanha na pedra",
+    "restaurant_id": 3,
+    "unit_price": 49.9
+  },
+  {
+    "id": 10,
+    "name": "Coca-cola",
+    "restaurant_id": 4,
+    "unit_price": 5.9
+  },
+  {
+    "id": 11,
+    "name": "Agua",
+    "restaurant_id": 4,
+    "unit_price": 3.9
+  },
+  {
+    "id": 12,
+    "name": "Ceviche e polvo salteado na manteiga",
+    "restaurant_id": 4,
+    "unit_price": 39.9
+  },
+  {
+    "id": 13,
+    "name": "Coca-cola",
+    "restaurant_id": 5,
+    "unit_price": 5.9
+  },
+  {
+    "id": 14,
+    "name": "Agua",
+    "restaurant_id": 5,
+    "unit_price": 3.9
+  },
+  {
+    "id": 15,
+    "name": "Combo 15 peças variadas de salmão",
+    "restaurant_id": 5,
+    "unit_price": 59.9
+  }
+]

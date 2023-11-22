@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Pimenta Preta",
+    "img": "https://parceiros.ifood.com.br/images/main/ShowCase/restaurante/marmitaria.svg"
+  },
+  {
+    "id": 2,
+    "name": "Paris 6",
+    "img": "https://parceiros.ifood.com.br/images/main/ShowCase/restaurante/marmitaria.svg"
+  },
+  {
+    "id": 3,
+    "name": "Boi na Brasa",
+    "img": "https://parceiros.ifood.com.br/images/main/ShowCase/restaurante/marmitaria.svg"
+  },
+  {
+    "id": 4,
+    "name": "Wanchaco",
+    "img": "https://parceiros.ifood.com.br/images/main/ShowCase/restaurante/marmitaria.svg"
+  },
+  {
+    "id": 5,
+    "name": "Toka do Sushi",
+    "img": "https://parceiros.ifood.com.br/images/main/ShowCase/restaurante/marmitaria.svg"
+  }
+]
