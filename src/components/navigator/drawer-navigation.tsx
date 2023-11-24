@@ -1,3 +1,4 @@
+import React from 'react'
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import Dashboard from 'pages/dashboard/dashboard';
 import Restaurants from 'pages/restaurants/restaurants';

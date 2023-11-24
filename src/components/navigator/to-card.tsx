@@ -1,6 +1,10 @@
-import { useNavigation } from "@react-navigation/native";
+import { NavigationProp, useNavigation } from "@react-navigation/native";
 import { Button, Icon, TopNavigationAction } from "@ui-kitten/components";
+import React from "react";
 import { StyleSheet } from "react-native";
+export type ScreenNames = ["Card"];
+export type RootStackParamList = Record<ScreenNames[number], undefined>;
+export type StackNavigation = NavigationProp<RootStackParamList>;
 
 const style = StyleSheet.create({
   badge: {
@@ -13,11 +17,11 @@ const style = StyleSheet.create({
   },
 });
 
-const ToCard = ({ totalItems }: {totalItems:number}) => {
-  const navigation = useNavigation();
+const ToCard = ({ totalItems }: { totalItems: number }) => {
+  const { navigate } = useNavigation<StackNavigation>();
 
   const navigateToCard = () => {
-    navigation.navigate('Card');
+    navigate("Card");
   };
 
   const CardIcon = (props: any) => (

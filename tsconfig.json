@@ -3,10 +3,11 @@
   "compilerOptions": {
     "jsx": "react",
     "baseUrl": ".",
+    /* "noEmit": false, */
     "paths": {
       "*": ["src/*"],
       "@components/*": ["src/components/*"],
       "@pages/*": ["src/pages/*"]
     },
-  }
+  },
 }
